@@ -36,6 +36,9 @@ DOMAIN-SUFFIX,521699.xyz
 #软件下载
 DOMAIN-SUFFIX,itrmb.com
 
+#大盘云图
+DOMAIN,dapanyuntu.com
+
 
 #微信
 DOMAIN,extshort.weixin.qq.com
