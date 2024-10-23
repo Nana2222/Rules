@@ -50,8 +50,8 @@ DOMAIN,minorshort.weixin.qq.com
 #DOMAIN,gpt.github.cn.com
 #DOMAIN,new.oaifree.com
 
-
-
+# 可莉规则
+DOMAIN-SUFFIX,kelee.one
 
 
 # 肥羊allinone
