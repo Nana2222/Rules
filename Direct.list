@@ -56,6 +56,13 @@ DOMAIN,minorshort.weixin.qq.com
 #DOMAIN,gpt.github.cn.com
 #DOMAIN,new.oaifree.com
 
+#群晖DDNS
+DOMAIN,checkip.synology.com
+DOMAIN,checkipv6.synology.com
+DOMAIN,checkport.synology.com
+DOMAIN,ddns.synology.com
+DOMAIN,account.synology.com
+
 # 可莉规则
 DOMAIN-SUFFIX,kelee.one
 
