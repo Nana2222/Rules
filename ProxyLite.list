@@ -23,6 +23,9 @@ DOMAIN-KEYWORD,pikpak
 #肥羊
 DOMAIN,bptv.freetv.top 
 
+Yang视频
+DOMAIN-SUFFIX,iill.top,PROXY
+
 #小雅
 DOMAIN-SUFFIX,xiaoya.pro
 DOMAIN-SUFFIX,free.hr
