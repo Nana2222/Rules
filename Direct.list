@@ -31,7 +31,7 @@ IP-CIDR,114.114.115.115/32,no-resolve
 DOMAIN-SUFFIX,395313.xyz
 
 # 机场域名
-DOMAIN-SUFFIX,521699.xyz
+#DOMAIN-SUFFIX,521699.xyz
 
 # 孟德钉钉
 DOMAIN-SUFFIX,mengdetool.com
