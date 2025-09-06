@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
-DOMAIN-KEYWORD,glodon
+
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
 
@@ -29,6 +29,11 @@ IP-CIDR,114.114.115.115/32,no-resolve
 
 # 自用域名
 DOMAIN-SUFFIX,395313.xyz
+
+# 广联达
+DOMAIN-SUFFIX,glodon.com
+DOMAIN-SUFFIX,grandsoft.com.cn
+DOMAIN-KEYWORD,glodon
 
 # 机场域名
 #DOMAIN-SUFFIX,521699.xyz
