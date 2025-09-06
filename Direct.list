@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,395313.xyz
 DOMAIN-SUFFIX,glodon.com
 DOMAIN-SUFFIX,grandsoft.com.cn
 DOMAIN-KEYWORD,glodon
-
+IP-CIDR,110.42.230.235,no-resolve
 # 机场域名
 #DOMAIN-SUFFIX,521699.xyz
 
