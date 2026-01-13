@@ -37,6 +37,7 @@ DOMAIN-KEYWORD,glodon
 IP-CIDR,110.42.230.235,no-resolve
 # 机场域名
 DOMAIN-KEYWORD,huyun
+DOMAIN-KEYWORD,cocoduck
 
 # 孟德钉钉
 DOMAIN-SUFFIX,mengdetool.com
