@@ -39,6 +39,11 @@ IP-CIDR,110.42.230.235,no-resolve
 DOMAIN-KEYWORD,huyun
 DOMAIN-KEYWORD,cocoduck
 
+# wise自定义
+DOMAIN-SUFFIX,wise.com
+DOMAIN-SUFFIX,transferwise.com
+DOMAIN-SUFFIX,wise.cards
+
 # 孟德钉钉
 DOMAIN-SUFFIX,mengdetool.com
 # CCproject
