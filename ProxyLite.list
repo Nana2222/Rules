@@ -7,28 +7,6 @@ DOMAIN-SUFFIX,api.ip.sb
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
-#Lark（不含飞书）
-DOMAIN-SUFFIX,larkofficecdn.com
-DOMAIN-SUFFIX,thelarkcloud.com
-DOMAIN-SUFFIX,larkofficeimg.com
-DOMAIN-SUFFIX,larkcloud.com
-DOMAIN-SUFFIX,larkcloud.net
-DOMAIN-SUFFIX,larkfn.com
-DOMAIN-SUFFIX,larkmeetings.com
-DOMAIN-SUFFIX,larkoffice.com
-DOMAIN-SUFFIX,statuslarkoffice.com
-DOMAIN-SUFFIX,larkofficeapp.com
-DOMAIN-SUFFIX,larkofficepkg.com
-DOMAIN-SUFFIX,larkrooms.com
-DOMAIN-SUFFIX,larksuite.com
-DOMAIN-SUFFIX,larkvc.com
-DOMAIN-SUFFIX,larksuiteimg.com
-DOMAIN-SUFFIX,larksuitecdn.com
-DOMAIN-SUFFIX,larksuite.com.ttdns2.com
-DOMAIN-SUFFIX,larksuite.com.ttdns1.com
-DOMAIN-SUFFIX,larkoffice.com.bytedns1.com
-DOMAIN-SUFFIX,frontier-lark-lb-v3.lf.bytelb.net
-
 
 # IP段匹配
 IP-CIDR,142.171.133.131/32,no-resolve
@@ -47,8 +25,7 @@ DOMAIN-KEYWORD,pikpak
 DOMAIN,bptv.freetv.top 
 Domain-suffix,ottiptv.cc
 
-Yang视频
-DOMAIN-SUFFIX,iill.top,PROXY
+
 
 #小雅
 DOMAIN-SUFFIX,xiaoya.pro
