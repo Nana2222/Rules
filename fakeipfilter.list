@@ -1,5 +1,4 @@
 #LAN
-*
 *.lan
 *.localdomain
 *.example
@@ -128,7 +127,10 @@ ff.dorado.sdo.com
 #shark007 Codecs
 shark007.net
 #Mijia
-Mijia Cloud
++.miwifi.com
++.market.xiaomi.com
++.io.mi.com
++.home.mi.com
 #Xiaomi
 +.market.xiaomi.com
 #招商银行
@@ -163,4 +165,13 @@ ps.res.netease.com
 +.cocoduck.org
 dmit.yins.win
 #docker
++.docker.com
 +.docker.io
++.dockerusercontent.com
+registry-1.docker.io
+auth.docker.io
+production.cloudflare.docker.com
+
+#其他
++.miwifi.com
++.push.apple.com
