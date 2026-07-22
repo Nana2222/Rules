@@ -50,7 +50,8 @@ DOMAIN-SUFFIX,itrmb.com
 
 #大盘云图
 DOMAIN-SUFFIX,dapanyuntu.com
-
+#typora
+DOMAIN-SUFFIX,typora.io
 
 #微信
 DOMAIN,extshort.weixin.qq.com
