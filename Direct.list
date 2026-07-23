@@ -42,16 +42,13 @@ DOMAIN-SUFFIX,wise.cards
 # 孟德钉钉
 DOMAIN-SUFFIX,mengdetool.com
 
-# CCproject
-DOMAIN-SUFFIX,ccproj.com
 
 #软件下载
 DOMAIN-SUFFIX,itrmb.com
 
 #大盘云图
 DOMAIN-SUFFIX,dapanyuntu.com
-#typora
-DOMAIN-SUFFIX,typora.io
+
 
 #微信
 DOMAIN,extshort.weixin.qq.com
