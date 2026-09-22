@@ -1,7 +1,11 @@
 # 机场订阅与官网
 DOMAIN-SUFFIX,395313.xyz
-DOMAIN-KEYWORD,huyun
-DOMAIN-KEYWORD,cocoduck
+DOMAIN-SUFFIX,huyun.org
+DOMAIN-SUFFIX,huyun.top
+DOMAIN-SUFFIX,cocoduck.cc
+DOMAIN-SUFFIX,cocoduck.live
+DOMAIN-SUFFIX,cocoduck.site
+DOMAIN-SUFFIX,cocoduck.org
 
 # IPTV 直播源（一行覆盖全部 feiyangdigital 等电视频道）
 DOMAIN-SUFFIX,ottdns.com
